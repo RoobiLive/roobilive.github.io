@@ -1,30 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="https://roobilive.github.io/assets/css/main.css" media="screen"?>
-<rss version="2.0">
-  <channel>
-    <generator>RSS Builder by B!Soft</generator>
-    <title>Fusce pellentesque tempus</title>
-    <link>https://roobilive.github.io/</link>
-    <description>We are doing streaming games in socialmedia so we here to help you and much more. this is for just a text an we need do aply some category made by us. because know one can help you when you are in dard. but we try to help you contact us for enjoy</description>
-    <language>en-us</language>
-    <managingEditor>sapu.there@gmail.com</managingEditor>
-    <webMaster>sapu.there@gmail.com</webMaster>
-    <copyright>2021</copyright>
-    <image>
-      <title>Fusce pellentesque tempus</title>
-      <link>https://roobilive.github.io/</link>
-      <url>https://roobilive.github.io/images/pic01.jpg</url>
-      <width>567</width>
-      <height>196</height>
-    </image>
-    <item>
-      <title>We are doing streaming</title>
-      <pubDate>Fri, 10 Sep 2021 16:47:11 +0500</pubDate>
-      <link>https://roobilive.github.io/index.html</link>
-      <author>sapu.there@gmail.com</author>
-      <comments>https://roobilive.github.io/</comments>
-      <category>Gaming</category>
-      <description><![CDATA[<a href="https://roobilive.github.io/">Comment your idea</a>]]></description>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ROOBI</title>
+	<atom:link href="https://roobilive.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://roobilive.github.io/</link>
+	<description>STREAMER</description>
+	<lastBuildDate>Sun, 12 Sep 2021 01:04:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://https://roobilive.github.io/uploads/2021/09/cropped-logoRoobi-1-32x32.png</url>
+	<title>ROOBI</title>
+	<link>http://www.roobilive.dev.cc</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>this is title</title>
+		<link>https://roobilive.github.io//2021/09/12/this-is-title/</link>
+					<comments>https://roobilive.github.io/2021/09/12/this-is-title/#respond</comments>
+		
+		<dc:creator><![CDATA[roobi]]></dc:creator>
+		<pubDate>Sun, 12 Sep 2021 01:02:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://roobilive.github.io//?p=66</guid>
+
+					<description><![CDATA[mEKA tHAMAI bLOCK eKA WIKARAI WAGE]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap has-normal-font-size" style="line-height:1.6">mEKA tHAMAI bLOCK eKA</p>
+
+
+
+<!--<figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" src="https://roobilive.github.io/wp-content/uploads/2021/09/logoSas-1024x1024.jpg" alt="" class="wp-image-68" width="94" height="94" srcset="https://roobilive.github.io//wp-content/uploads/2021/09/logoSas-1024x1024.jpg 1024w, https://roobilive.github.io/wp-content/uploads/2021/09/logoSas-300x300.jpg 300w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-150x150.jpg 150w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-768x768.jpg 768w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-1536x1536.jpg 1536w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-2048x2048.jpg 2048w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-100x100.jpg 100w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-650x650.jpg 650w, http://www.roobilive.dev.cc/wp-content/uploads/2021/09/logoSas-1300x1300.jpg 1300w" sizes="(max-width: 94px) 100vw, 94px" /></figure>-->
+
+
+
+<p>WIKARAI WAGE</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://roobilive.github.io/2021/09/12/this-is-title/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
